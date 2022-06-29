@@ -44,7 +44,8 @@ const styles = StyleSheet.create({
     fontSize: 16,
   },
   image: {
-    height: 75,
+    height: 80,
+    marginLeft: 5,
     aspectRatio: 1,
   },
 });
